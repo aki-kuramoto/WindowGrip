@@ -1,0 +1,69 @@
+========================================================================
+ソフトウェア利用規約 (LICENSE) - The original Japanese version, English translation is later for reference.
+========================================================================
+
+本ソフトウェア (以下、「本ソフト」) をご利用になる前に、以下の利用規約をお読みください。
+本ソフトを使用された場合、本規約に同意したものとみなされます。
+
+1. 著作権
+本ソフトの著作権は、作者 (Aki. Kuramoto) に帰属します。
+
+2. 使用許諾
+本ソフトはフリーソフトです。個人・法人、営利・非営利を問わず、どなたでも無償でご利用いただけます。
+また、アーカイブ (ZIPファイル等) を無改変の状態で保つ場合に限り、再配布や転載を自由に行ってかまいません。
+
+3. 禁止事項
+本ソフトのご利用にあたり、以下の行為を禁止します。
+・本ソフトのプログラムの改変、リバースエンジニアリング、逆コンパイル、逆アセンブル
+・本ソフト自体を販売し、直接的な利益を得る行為
+・作者を偽っての公開、配布
+
+4. 免責事項
+本ソフトは「現状有姿 (As is) 」で提供されます。
+作者は、本ソフトの動作保証、特定の目的への適合性、およびバグや不具合がないことの保証はいたしません。
+本ソフトの使用、または使用できなかったことによって生じた、いかなる損害 (データの消失、業務の中断、精神的苦痛などを含む) についても、作者は一切の責任を負わないものとします。すべてご自身の責任においてご使用ください。
+
+5. サードパーティライセンスについて
+本ソフトには、第三者が権利を有するソフトウェアライブラリが含まれています。
+これらの詳細およびライセンス条項については、同梱の「third-party-notices.txt」をご参照ください。
+
+------------------------------------------------------------------------
+制定日: 2026年3月27日
+作者: Aki. Kuramoto
+連絡先: GitHub: https://github.com/aki-kuramoto Twitter: https://twitter.com/aki_kuramoto
+
+Copyright (c) 2026- Akihiro Kuramoto
+
+========================================================================
+Software Terms of Use (LICENSE) - English Translation
+========================================================================
+* This English translation is provided for convenience and reference purposes only. 
+* In the event of any discrepancy or conflict between the Japanese original 
+* and this English translation, the Japanese original shall prevail.
+
+Before using this software ("Software"), please read the following terms of use. 
+By using the Software, you agree to be bound by these terms.
+
+1. Copyright
+The copyright of this Software belongs to the author (Aki. Kuramoto).
+
+2. License
+This Software is freeware. Anyone may use it free of charge, regardless of whether they are an individual or a corporation, for commercial or non-commercial purposes. 
+Redistribution or reproduction is permitted freely, provided that the archive (e.g., ZIP file) is kept in its original, unmodified state.
+
+3. Prohibitions
+The following actions are prohibited when using this Software:
+- Modification, reverse engineering, decompilation, or disassembly of the Software.
+- Selling the Software itself to obtain direct profit.
+- Publishing or distributing the Software by falsifying the author's identity.
+
+4. Disclaimer
+This Software is provided "As is", without warranty of any kind. 
+The author makes no warranties regarding the operation of the Software, its fitness for a particular purpose, or the absence of bugs or defects. 
+In no event shall the author be liable for any damages (including, but not limited to, loss of data, business interruption, or mental distress) arising from the use or inability to use this Software. Use the Software entirely at your own risk.
+
+5. Third-Party Licenses
+This Software includes third-party software libraries. 
+For details and license terms of these components, please refer to the accompanying "third-party-notices.txt".
+
+Copyright (c) 2026- Akihiro Kuramoto
